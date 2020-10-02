@@ -1,3 +1,3 @@
 # sketcher
 Redux-React shopping app
-redux example
+Built on REACT 
